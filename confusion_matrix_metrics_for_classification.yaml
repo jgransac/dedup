@@ -1,0 +1,9 @@
+##################################################################################
+# Confusion matrix metrics for classification project
+##################################################################################
+
+classification_with_data_file: "part_categorization_classifications_with_data.csv"
+output_folder: /home/ubuntu/data
+output_file: "parts_classif_confusion_matrix_metrics.csv"
+
+
